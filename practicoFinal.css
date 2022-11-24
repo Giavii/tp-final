@@ -1,0 +1,52 @@
+h1{
+    color: #05445E;
+}
+
+.tarjeta{
+    display: inline-flex;
+    margin-right: 2px;
+}
+.tabla{
+    height: 80%;
+    width: 75%;
+    padding: auto;
+    margin: auto;
+}
+.titulo{
+    text-align: center;
+    color:#01171b;
+}
+.img{
+    margin:auto;
+    padding-right: 1.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+body{
+  
+    background: url(../imagenes/argentinapap.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.menu{
+    color: black;
+    
+}
+.cont-columnas{
+    width: 100%;
+    margin: auto;
+    
+}
+.columnasx3{
+    width: 33.33%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+}
+.oculto {
+    display: none;
+  }
